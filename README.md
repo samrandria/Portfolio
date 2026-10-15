@@ -80,7 +80,7 @@ Here are some of the conferences I took part in as a researcher, notably to pres
 * Seminar for the group of Prof. Yanlan MAO - University College London, United Kingdom - 11/2022
 * SFB 1032 "Nano Agents" Annual Workshop - Munich, Germany - 10/2022 [\[Link\]](https://www.sfb1032.physik.uni-muenchen.de/news/workshops/sfb1032-workshop-2022/index.html)
 * Seminar for the Center of Protein Assembly - Garching, Germany - 2022
-* Seminar for the group of Prof. Tetsuya Hiraiwa - Mechanobiology Institute, Singapore 08/2022
+* Seminar for the group of Prof. Tetsuya HIRAIWA - Mechanobiology Institute, Singapore 08/2022
 
 # Code 
 
