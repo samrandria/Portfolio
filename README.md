@@ -40,7 +40,7 @@ I covered the entire spectrum: from drafting concept notes, planning the logisti
  ----
 
 ### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" **iScience** (2024) [\[Link\]](https://www.cell.com/iscience/fulltext/S2589-0042(24)01524-4)
-  **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Baush
+  **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Bausch
 
   **Significance**: Tumours, and the pre-cancerous lesions that precede them are not always solid masses of cells, but can possess internal cavities - "lumens" - in which fluid and material can circulate, in a fashion similar to the healthy lumens of exocrine glands in our bodies.
 In the context of pancreatic cancer, understanding how those cavities emerge is therefore primordial to improve early diagnosis, identify mechanisms of cancer progression, and develop new therapies.
