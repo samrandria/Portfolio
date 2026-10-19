@@ -1,9 +1,9 @@
 # README
 
-This repository contains a PDF with a portfolio of things I have done:
+This repository contains a PDF with a portfolio of things I have done/been involved in, and that I am proud of, notably:
 
-- As Scientific Officer for the French Embassy to Switzerland
-- As Researcher at the Technische Universität München
+- High level diplomacy events organised (and occasionally moderated!) for the French Embassy to Switzerland 
+- My research work at the Technische Universität München : publications, talks, code, and supervision
 
 You can check it out directly in your browser, using the following link:
 
