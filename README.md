@@ -8,3 +8,8 @@ This repository contains a PDF with a portfolio of things I have done/been invol
 You can check it out directly in your browser, using the following link:
 
 [https://samrandria.github.io/Portfolio/portfolio_SR.pdf](https://samrandria.github.io/Portfolio/portfolio_SR.pdf)
+
+
+## The Talks folder (WIP)
+
+Contains some examples of talks I have given during my time as a researcher.
